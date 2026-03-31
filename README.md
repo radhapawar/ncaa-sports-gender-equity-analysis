@@ -1,4 +1,4 @@
-# Title IX & Gender Equity in NCAA Athletics — Data Analysis
+# Title IX & Gender Equity in NCAA Athletics: Data Analysis
 
 **Team:** Caraher, Korvink, Therrien, Zhu, Pawar
 **Data:** NCAA EADA (Equity in Athletics Disclosure Act) dataset, 2015–2019
